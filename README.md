@@ -1,5 +1,5 @@
-**Microsoft Excel Project - Data Analysis of a Clothing Stores Sales**
-    This project demonstrates end-to-end data analysis and visualization using Microsoft Excel, focusing on retail clothing sales data. The workflow includes data cleaning, transformation, KPI generation, and dashboard visualization to derive actionable business insights.
+**Microsoft Excel Project - Data Analysis of a Clothing Stores Sales:**
+This project demonstrates end-to-end data analysis and visualization using Microsoft Excel, focusing on retail clothing sales data. The workflow includes data cleaning, transformation, KPI generation, and dashboard visualization to derive actionable business insights.
 
 **Problem Statement:** 
     To imporve the annual years sales of the upcomming year by understanding the underline patterns from the objectives and providing the insights
@@ -59,3 +59,4 @@ Slicers for dynamic filtering.
 - Delivered interactive dashboards for insights on customer behavior, product demand, seasonal impact, and revenue performance.Built a clean, structured dataset ready for analysis.
 - Automated KPI calculations for business decision-making.
 - Delivered interactive dashboards for insights on customer behavior, product demand, seasonal impact, and revenue performance.
+
